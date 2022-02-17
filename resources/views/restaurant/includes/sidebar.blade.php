@@ -1,7 +1,7 @@
  <!-- sidebar part here -->
 <nav class="sidebar vertical-scroll ps-container ps-theme-default ps-active-y">
-    <div class="logo d-flex justify-content-between">
-        <a href="{{URL::to('/restaurant')}}"><img src="{{URL::to('/public/restaurant/assets')}}/images/logo-black.png" width="100%" alt=""></a>
+    <div class="logo justify-content-between">
+        <a href="{{URL::to('/restaurant')}}"><img src="{{URL::to('/public/restaurant/assets')}}/images/logo.png" width="80%" alt=""></a>
         <div class="sidebar_close_icon d-lg-none">
             <i class="ti-close"></i>
         </div>

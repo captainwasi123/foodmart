@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="{{URL::to('/public/restaurant/assets')}}/css/bootstrap.min.css" />
     <link rel="stylesheet" href="{{URL::to('/public/restaurant/assets')}}/css/style.css" />
     <link rel="stylesheet" href="{{URL::to('/public/restaurant/assets')}}/css/custom.css" />
-    <link rel="stylesheet" href="{{URL::to('/public/restaurant/assets')}}/css/bazil-css.css" />
+  <!--   <link rel="stylesheet" href="{{URL::to('/public/restaurant/assets')}}/css/bazil-css.css" /> -->
 
 <style type="text/css">
 .sec-2-back {
@@ -28,7 +28,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-12 col-12 no-pad">
                 <div class="sec-1">
-                    <img src="{{URL::to('/public/restaurant/assets')}}/images/image1.png" width="45%"> 
+                    <img src="{{URL::to('/public/restaurant/assets')}}/images/logo.png" width="35%"> 
                 </div>
             </div>
             <div class="col-lg-6 col-md-12 col-12 sec-2-back">

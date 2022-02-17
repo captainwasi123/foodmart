@@ -24,7 +24,7 @@ p {
 }
 
 ::-webkit-scrollbar-track {
-  background: #F8B602 !important;        /* color of the tracking area */
+  background: #F5893D !important;        /* color of the tracking area */
 }
 
 ::-webkit-scrollbar-thumb {
@@ -33,13 +33,13 @@ p {
   border: 2px solid #2E2E2E !important;  /* creates padding around scroll thumb */
 }
 .col-yellow {
-    color:#F8B602 !important;
+    color:#F5893D !important;
 }
 .col-black {
     color:#2E2E2E !important;
 }
 .bg-yellow {
-    background:#F8B602 !important;
+    background:#F5893D !important;
 }
 .bg-black {
     background:#2E2E2E !important;
@@ -287,7 +287,7 @@ p {
 	color: white;
 }
 .sidebar #sidebar_menu > li a:hover {
-	background:#F8B602;
+	background:#F5893D;
 	color: white;
 }
 .sidebar #sidebar_menu > li a {
@@ -357,11 +357,11 @@ p {
   display: none;
 }
 input:checked + .slider {
-  background-color: #F8B602;
+  background-color: #F5893D;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #F8B602;
+  box-shadow: 0 0 1px #F5893D;
 }
 
 input:checked + .slider:before {
@@ -398,7 +398,7 @@ input:checked + .slider:before {
     border-radius: 0px;
 }
 .nav-link-notify:before {
-    background-color: #F8B602;
+    background-color: #F5893D;
 }
 .main_content .main_content_iner {
     padding: 0px 30px 0px 30px;
@@ -410,25 +410,24 @@ input:checked + .slider:before {
       width: 240px;
 }
 .profile_info .profile_info_iner .profile_author_name {
-      background: #f8b602;
+      background: #F5893D;
 }
 .profile_info .profile_info_iner::before {
-      border-color: transparent transparent #f8b602 transparent;
+      border-color: transparent transparent #F5893D transparent;
 }
 .profile_info .profile_info_details a {
     color: #2e3e5d;
     font-weight: 400;
 }
 .profile_info .profile_info_details a:hover {
-    color: #f8b602;
+    color: #F5893D;
 }
 .header_iner .header_right .header_notification_warp li > a {
     margin-right: 45px;
 }
 
 .sec-1 {
-    background: linear-gradient(
-180deg, #71DA80 0%, #18C180 100%);
+    background: linear-gradient( 180deg, #e7392d -30%, #f5893d 100%);
     height: 100vh;
 }
 .sec-1 img 
@@ -820,7 +819,7 @@ input:checked + .slider:before {
     border-radius: 0 !important;
 }
 .barfiller span.fill {
-    background: #F8B602 !important;
+    background: #F5893D !important;
 }
 .sec-37 h4 {
     font-size: 16px;
@@ -834,7 +833,7 @@ input:checked + .slider:before {
     font-size: 25px;
 }
 .circle-class i {
-    color: #f8b602;
+    color: #F5893D;
 }
 .sec-38 {
     background: white;
@@ -978,8 +977,8 @@ input#Description {
 }
 .btn.sec-48 {
     color: #fff;
-    background-color: #F8B602;
-    border-color: #F8B602;
+    background-color: #F5893D;
+    border-color: #F5893D;
     font-size: 14px;
     padding: 10px 55px 10px 55px;
     border-radius: 16px;
@@ -1167,7 +1166,12 @@ input[type=number]::-webkit-inner-spin-button {
 .logo-head {
     font-size: 16px;
 }
-
+.sidebar .logo {
+    text-align: center;
+}
+.sidebar .logo img {
+    width: 70%;
+}
 .profilePic {
   visibility: hidden;
   position: absolute;
@@ -1192,8 +1196,8 @@ input#file {
     margin-top: 25px;
 }
 .browseProfilePhoto:hover {
-    background: #F8B602;
-    border: 1px solid #F8B602;
+    background: #F5893D;
+    border: 1px solid #F5893D;
 
 }
 
@@ -1286,12 +1290,12 @@ input#file {
 }
 .nav-item-custom li a:hover {
     color: #fff !important;
-    background-color: #F8B602 !important;
+    background-color: #F5893D !important;
 }
 
 .nav-item-custom li a.active{
     color: #fff !important;
-    background-color: #F8B602 !important;
+    background-color: #F5893D !important;
 }
 
 
@@ -1325,12 +1329,12 @@ input#file {
 }
 
 .order-cell:hover {
-    border: 1px solid #F8B602;
+    border: 1px solid #F5893D;
     background-color: rgba(248, 182, 2, 0.1);
 }
 
 .order-cell:active {
-    border: 1px solid #F8B602;
+    border: 1px solid #F5893D;
     background-color: rgba(248, 182, 2, 0.1);
 }
 
@@ -1387,7 +1391,7 @@ input#file {
 }
 
 .order-cell:hover .right-arrow {
-    background: #F8B602 !important;
+    background: #F5893D !important;
     border-radius: 8px !important;
     color: white !important;
 }
@@ -1429,7 +1433,7 @@ input#file {
 
 .location-pin {
     padding-right: 10px;
-    color: #F8B602;
+    color: #F5893D;
 }
 
 .horirow {
@@ -1448,7 +1452,7 @@ input#file {
 
 .btn.acceptorder {
     padding: 16px 24px;
-    background: #F8B602;
+    background: #F5893D;
     border-radius: 16px;
     color: #fff !important;
 }
@@ -1493,7 +1497,7 @@ input#file {
 
 .serach_field-area .search_inner button i {
     font-size: 18px;
-    color: #F8B602;
+    color: #F5893D;
 }
 i.fas.fa-search {
     display: flex;
@@ -1556,7 +1560,7 @@ i.fas.fa-search {
     width: 100%;
 }
 .fa-star {
-    color: #F8B602;
+    color: #F5893D;
 }
 .order-des {
     font-size: 12px;
@@ -1585,7 +1589,7 @@ i.fas.fa-search {
 }
 .left-arrow:hover, .rigt-arrow:hover {
     color: #fff;
-    background-color: #F8B602;
+    background-color: #F5893D;
     border-color: transparent;
     padding: 12px 20px;
     border-radius: 16px !important;
@@ -1596,17 +1600,17 @@ i.fas.fa-search {
 
 .page-link-nav:hover {
     color: #fff !important;
-    background: #F8B602 !important;
+    background: #F5893D !important;
     border-radius: 16px !important;
     padding: 12px 20px;
-    border-color: #F8B602;
+    border-color: #F5893D;
 }
 .page-item {
     padding: 5px;
     display: flex;
 }
 .page-item.active a {
-    background: #f8b602 !important;
+    background: #F5893D !important;
     color: white !important;
 }
 .page-item.disable a {
@@ -1659,15 +1663,15 @@ i.fas.fa-search {
     border-radius: 16px;
 }
 .btn.list-btn:hover i {
-    color: #F8B602;
+    color: #F5893D;
     
 }
 .page-item .active {
     color: #fff !important;
-    background: #F8B602 !important;
+    background: #F5893D !important;
     border-radius: 16px !important;
     padding: 12px 20px;
-    border-color: #F8B602;
+    border-color: #F5893D;
 }
 
 @-webkit-keyframes fadeOut {
@@ -1713,7 +1717,7 @@ i.fas.fa-search {
 .loader {
     border: 16px solid #f3f3f3;
     border-radius: 50%;
-    border-top: 16px solid #f8b602;
+    border-top: 16px solid #F5893D;
     width: 120px;
     height: 120px;
     -webkit-animation: spin 1s linear infinite;
